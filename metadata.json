@@ -1,0 +1,6 @@
+{
+  "name": "DOT BOYS HOSTEL — Hostel Management & Online Booking",
+  "description": "Production hostel management, bed inventory, online booking, monthly billing, automated WhatsApp reminders, and CMS platform for DOT BOYS HOSTEL, Satellite Town, Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
